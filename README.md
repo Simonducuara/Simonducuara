@@ -1,16 +1,30 @@
-## Hi there 👋
+ # Hola, soy Simon
 
-<!--
-**Simonducuara/Simonducuara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero de software enfocado en:
+- Desarrollo web
+- Inteligencia artificial
+- Automatización
+- Backend y APIs
 
-Here are some ideas to get you started:
+# Tecnologías
+- Python
+- JavaScript
+- React
+- Node.js
+- SQL
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Experiencia
+- Monitor IA con MinTIC
+- Desarrollo de proyectos personales
+- Automatización de procesos
+
+# Actualmente
+- Construyendo proyectos de IA
+- Aprendiendo arquitectura de software
+- Creando soluciones digitales
+
+# Contacto
+- LinkedIn
+- Correo
+- Portafolio
