@@ -6,7 +6,7 @@ Ingeniero de software enfocado en:
 - Automatización
 - Backend y APIs
 
-# Tecnologías
+## Tecnologías
 - Python
 - JavaScript
 - React
