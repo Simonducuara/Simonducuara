@@ -1,4 +1,4 @@
- # Hola, soy Simon
+# Hola, soy Simon
 
 Ingeniero de software enfocado en:
 - Desarrollo web
@@ -14,17 +14,17 @@ Ingeniero de software enfocado en:
 - SQL
 - Git
 
-# Experiencia
+## Experiencia
 - Monitor IA con MinTIC
 - Desarrollo de proyectos personales
 - Automatización de procesos
 
-# Actualmente
+## Actualmente
 - Construyendo proyectos de IA
 - Aprendiendo arquitectura de software
 - Creando soluciones digitales
 
-# Contacto
+## Contacto
 - LinkedIn
 - Correo
 - Portafolio
